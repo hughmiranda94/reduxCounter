@@ -1,3 +1,16 @@
+#reduxCounter
+
+Counter Dashboard
+![Counter Dashboard](https://raw.githubusercontent.com/hughmiranda94/reduxCounter/master/src/assets/counter-dashboard.png)
+
+![Multiple Counters Dashboard](https://raw.githubusercontent.com/hughmiranda94/reduxCounter/master/src/assets/counters-dashboard.png)
+
+State Management
+![DevTools State](https://raw.githubusercontent.com/hughmiranda94/reduxCounter/master/src/assets/devTools-state.png)
+
+![DevTools Multiple States](https://raw.githubusercontent.com/hughmiranda94/reduxCounter/master/src/assets/devTools-states.png)
+
+
 # ReduxPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
